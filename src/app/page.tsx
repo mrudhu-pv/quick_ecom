@@ -12,6 +12,7 @@ export default function Home() {
       <Link href="/products" prefetch={false}>Go to products</Link>
       <div>
         <Image style={imageStyle} src='/download.jpeg' alt="" width={300} height={300}/>
+        <Image style={imageStyle} src='/download.jpeg' alt="" width={300} height={300}/>
       </div>
       </div>
   );
